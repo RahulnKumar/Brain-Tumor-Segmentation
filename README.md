@@ -26,7 +26,8 @@ In the codes folder following files are there :
  3. unet_model.py            : It is the utility script containing the Unet model.
  4. Brain_segmentation.ipynb : It is notebook containing both the models executed 5 and 35 epochs respectively.
  5. Assets 		    : It contains the sample dataset for just one patient and some files linked to notebook
- 
+ ## Contributors  
+ - Rahul Kumar
  ## License & copyright
  © Rahul Kumar 2020    
  Licensed under the [MIT License](LICENSE)
