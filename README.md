@@ -28,5 +28,5 @@ In the codes folder following files are there :
  5. Assets 		    : It contains the sample dataset for just one patient and some files linked to notebook
  
  ## License & copyright
- © Rahul Kumar  
+ © Rahul Kumar 2020    
  Licensed under the [MIT License](LICENSE)
