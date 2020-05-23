@@ -1,5 +1,5 @@
 # Brain-Tumor-Segmentation-using-CNN-in-MRI-images.
-To develop a Convolutional Neural Network (CNN) segmentation model to diagnose  brain   tumor    using Magnetic Resonance Imaging (MRI) images. 
+To develop a Convolutional Neural Network (CNN) segmentation model to diagnose  brain   tumor    using Magnetic Resonance Imaging (MRI) images.   
 The project was run on Google Colab that provided a single 12GB NVIDIA Tesla K80 GPU.
 
 ## Dependencies :
