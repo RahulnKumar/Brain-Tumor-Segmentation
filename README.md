@@ -18,7 +18,7 @@ For downloading the dataset
   
 ## Files Description
 In the codes folder following files are there :  
- 1. utils.py                 : It is the utility script containing the data loading and data augmentation code.
+1. utils.py                 : It is the utility script containing the data loading and data augmentation code.
  2. simple_model.py          : It is the utility script containing simple CNN model implemented in the paper.
  3. unet_model.py            : It is the utility script containing the Unet model.
  4. Brain_segmentation.ipynb : It is notebook containing both the models executed 5 and 35 epochs respectively.
