@@ -8,15 +8,15 @@ To develop a Convolutional Neural Network (CNN) segmentation model to diagnose  
  3. Keras
  4. SimpleITK
   
- ## Dataset :
-  For downloading the dataset
- • Go to "https://www.smir.ch/BRATS/Start2015".
- • Regiter in there with official E-mail id.
- • After confirming they will send the logins to your E-mail id.
- • Login in there and go to "Challenges/BRATS2015".
- • Then download the training and train dataset. But they won't provide the ground truth for test dataset.
+## Dataset :
+For downloading the dataset
+ 1. Go to "https://www.smir.ch/BRATS/Start2015".
+ 2. Regiter in there with official E-mail id.
+ 3. After confirming they will send the logins to your E-mail id.
+ 4. Login in there and go to "Challenges/BRATS2015".
+ 5. Then download the training and train dataset. But they won't provide the ground truth for test dataset.
   
- ## Files Description
+## Files Description
  In the codes folder following files are there
  1.utils.py                 : It is the utility script containing the data loading and data augmentation code.
  2.simple_model.py          : It is the utility script containing simple CNN model implemented in the paper.
