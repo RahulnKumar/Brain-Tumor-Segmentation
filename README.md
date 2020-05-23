@@ -17,7 +17,7 @@ For downloading the dataset
  5. Then download the training and train dataset. But they won't provide the ground truth for test dataset.
   
 ## Files Description
- In the codes folder following files are there
+In the codes folder following files are there
  1.utils.py                 : It is the utility script containing the data loading and data augmentation code.
  2.simple_model.py          : It is the utility script containing simple CNN model implemented in the paper.
  3.unet_model.py            : It is the utility script containing the Unet model.
