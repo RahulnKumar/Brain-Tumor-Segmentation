@@ -11,7 +11,7 @@ The project was run on Google Colab that provided a single 12GB NVIDIA Tesla K80
 ## Dataset :
 For downloading the dataset
  1. Go to "https://www.smir.ch/BRATS/Start2015".
- 2. Regiter in there with official E-mail id.
+ 2. Register in there with official E-mail id.
  3. After confirming they will send the logins to your E-mail id.
  4. Login in there and go to "Challenges/BRATS2015".
  5. Then download the training and train dataset. But they won't provide the ground truth for test dataset.
