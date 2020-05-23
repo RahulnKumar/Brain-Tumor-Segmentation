@@ -1,6 +1,6 @@
 # Brain-Tumor-Segmentation-using-CNN-in-MRI-images.
 To develop a Convolutional Neural Network (CNN) segmentation model to diagnose  brain   tumor    using Magnetic Resonance Imaging (MRI) images. 
-§ The project was run on Google Colab that provided a single 12GB NVIDIA Tesla K80 GPU.
+The project was run on Google Colab that provided a single 12GB NVIDIA Tesla K80 GPU.
 
 ## Dependencies :
  1. Numpy
@@ -17,7 +17,7 @@ For downloading the dataset
  5. Then download the training and train dataset. But they won't provide the ground truth for test dataset.
   
 ## Files Description
-In the codes folder following files are there
+In the codes folder following files are there :
  1.utils.py                 : It is the utility script containing the data loading and data augmentation code.
  2.simple_model.py          : It is the utility script containing simple CNN model implemented in the paper.
  3.unet_model.py            : It is the utility script containing the Unet model.
